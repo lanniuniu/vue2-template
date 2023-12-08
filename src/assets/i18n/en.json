@@ -1,0 +1,9 @@
+{
+  "common": {
+    "tabBar": {
+      "wallet": "A",
+      "activity": "B",
+      "profile": "C"
+    }
+  }
+}
