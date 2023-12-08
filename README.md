@@ -21,9 +21,14 @@ yarn lint
 ```
 
 ### 技术栈
-vue2
-vue-router3
-vuex2
-vant2
-flexible
+vue V2
+vue-router V3
+vuex V2
+vant V2
+lib-flexible
+i18n V8
+less
+normalize
+
+
 
